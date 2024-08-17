@@ -19,7 +19,7 @@ PowerShell.
 
 ## Setup
 
-With TorToiseGit installed and the `<INSTALL_DIR>/TortoiseGit/bin` folder on
+With TortoiseGit installed and the `<INSTALL_DIR>/TortoiseGit/bin` folder on
 `$env:PATH`, add the following to your powershell `$PROFILE`, where `$pathToModule` is the path where the file was downloaded to.
 
 ```pwsh
